@@ -1,4 +1,7 @@
 # Netflix-Landing-Page
+A simple website having similar homepage
+that of Netflix using using HTML and
+CSS.
 #     Screenshot
 ![page1](https://github.com/AakanshiDixit/NetflixHomepage/assets/137915782/91141eb7-6c7b-48b9-a8b7-855e6c14ac17)
 ![page2](https://github.com/AakanshiDixit/NetflixHomepage/assets/137915782/9f2c6349-9ac0-4b32-a6d8-144d150ecd3d)
